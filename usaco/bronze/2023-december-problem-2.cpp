@@ -1,4 +1,5 @@
 //Farmer John Actually Farms
+//https://usaco.org/index.php?page=viewproblem2&cpid=1349
 #include <iostream>
 #include <algorithm>
 using namespace std;
