@@ -1,4 +1,5 @@
 //Candy Cane Feast 
+https://usaco.org/index.php?page=viewproblem2&cpid=1347
 #include <iostream>
 #include <queue>
 #include <map>
