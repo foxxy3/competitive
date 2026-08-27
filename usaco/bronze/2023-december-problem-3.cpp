@@ -1,4 +1,5 @@
 //Cowntact Tracing 2
+//https://usaco.org/index.php?page=viewproblem2&cpid=1348
 #include <iostream>
 #include <vector>
 using namespace std;
